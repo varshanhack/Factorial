@@ -6,6 +6,5 @@ while True:
     print("")
     print("The factorial of",n,"is",math.factorial(n))
     print("")
-    input("Press any key to continue...")
+    input("Press enter to continue...")
     subprocess.run("cls",shell=True)
-        
